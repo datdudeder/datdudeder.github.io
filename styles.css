@@ -8,8 +8,11 @@ border: solid 1px grey; width: 300PX;
 div {
     display: flex; justify-content:center ;
 }
-li {list-style: none;  text-align: center; font-size: 20px;}
+li {   text-align: center; font-size: 20px;}
 
 p { font-size: 20px;
 
+}
+body {
+    background-image: url("background3.jpg")  ; ;
 }
